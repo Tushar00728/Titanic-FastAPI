@@ -9,9 +9,3 @@ gunicorn==19.9.0
 uvloop
 httptools
 seaborn
-missingno
-math
-time
-random
-datetime
-warnings
