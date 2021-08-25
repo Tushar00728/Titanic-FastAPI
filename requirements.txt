@@ -1,7 +1,7 @@
 numpy 
 pandas
 matplotlib
-sciki-learn
+scikit-learn
 fastapi 
 uvicorn 
 gunicorn==19.9.0
